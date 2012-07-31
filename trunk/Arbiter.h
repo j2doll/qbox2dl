@@ -12,7 +12,15 @@
 #ifndef ARBITER_H
 #define ARBITER_H
 
+#include <QtGlobal>
+
 #include "MathUtils.h"
+
+#include <QtOpenGL>
+// #include <GL/gl.h>
+// #include <GL/glu.h>
+// #include <GL/glext.h>
+#include <GL/glut.h>
 
 struct Body;
 

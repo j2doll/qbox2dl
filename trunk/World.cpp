@@ -10,8 +10,6 @@
 */
 
 #include "World.h"
-#include "Body.h"
-#include "Joint.h"
 
 using std::vector;
 using std::map;

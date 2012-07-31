@@ -9,7 +9,7 @@
 * It is provided "as is" without express or implied warranty.
 */
 
-#include "Arbiter.h"
+
 #include "Body.h"
 
 // Box vertex and edge numbering:

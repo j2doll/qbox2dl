@@ -12,7 +12,11 @@
 #ifndef JOINT_H
 #define JOINT_H
 
+#include <QtGlobal>
+
 #include "MathUtils.h"
+#include "Body.h"
+#include "World.h"
 
 struct Body;
 
