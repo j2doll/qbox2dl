@@ -9,14 +9,17 @@
 * It is provided "as is" without express or implied warranty.
 */
 
+#include <QtGlobal>
+
 #include <cstddef>
 #include <cstdio>
 #include <cstdlib>
 #include <string.h>
 
-#include <GL/gl.h>
-#include <GL/glu.h>
-#include <GL/glext.h>
+#include <QtOpenGL>
+// #include <GL/gl.h>
+// #include <GL/glu.h>
+// #include <GL/glext.h>
 #include <GL/glut.h>
 
 #include "World.h"

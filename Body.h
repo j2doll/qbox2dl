@@ -12,7 +12,10 @@
 #ifndef BODY_H
 #define BODY_H
 
+#include <QtGlobal>
+
 #include "MathUtils.h"
+#include "Arbiter.h"
 
 struct Body
 {

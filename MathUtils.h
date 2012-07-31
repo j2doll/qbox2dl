@@ -12,6 +12,8 @@
 #ifndef MATHUTILS_H
 #define MATHUTILS_H
 
+#include <QtGlobal>
+
 #include <math.h>
 #include <float.h>
 #include <assert.h>

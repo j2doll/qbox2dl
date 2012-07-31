@@ -12,10 +12,15 @@
 #ifndef WORLD_H
 #define WORLD_H
 
+#include <QtGlobal>
+
 #include <vector>
 #include <map>
+
 #include "MathUtils.h"
 #include "Arbiter.h"
+#include "Body.h"
+#include "Joint.h"
 
 struct Body;
 struct Joint;

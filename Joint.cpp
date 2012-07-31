@@ -10,8 +10,7 @@
 */
 
 #include "Joint.h"
-#include "Body.h"
-#include "World.h"
+
 
 void Joint::Set(Body* b1, Body* b2, const Vec2& anchor)
 {

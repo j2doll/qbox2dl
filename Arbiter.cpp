@@ -13,11 +13,6 @@
 #include "Body.h"
 #include "World.h"
 
-#include <GL/gl.h>
-#include <GL/glu.h>
-#include <GL/glext.h>
-#include <GL/glut.h>
-
 Arbiter::Arbiter(Body* b1, Body* b2)
 {
 	if (b1 < b2)
