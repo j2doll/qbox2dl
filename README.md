@@ -2,7 +2,7 @@
 
 <span id="Box2D_Lite" class="anchor"></span>**Box2D Lite**
 
-[***http://www.box2d.org/***](http://www.box2d.org/)
+[***http://www.box2d.org***](http://www.box2d.org/)
 
 [***https://github.com/j2doll/qbox2dl***](https://github.com/j2doll/qbox2dl)
 
