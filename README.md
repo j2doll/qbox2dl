@@ -4,9 +4,9 @@
 
 [***http://www.box2d.org/***](http://www.box2d.org/)
 
-[***https://code.google.com/p/box2d/downloads/list***](https://code.google.com/p/box2d/downloads/list)
+[***https://github.com/j2doll/qbox2dl***](https://github.com/j2doll/qbox2dl)
 
-[***https://code.google.com/p/box2d/downloads/detail?name=Box2D\_Lite.zip&can=2&q=***](https://code.google.com/p/box2d/downloads/detail?name=Box2D_Lite.zip&can=2&q=)
+[***https://github.com/j2doll/qbox2dl***](https://github.com/j2doll/qbox2dl)
 
 <span id="Qt" class="anchor"></span>**Qt**
 
